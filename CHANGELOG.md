@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.2.0
+
+* Updated .yaml translation
+
 ### 1.1.0
 
 * made ext .yaml
