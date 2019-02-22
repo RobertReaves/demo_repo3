@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.3.0
+
+* blah
+
 ### 1.2.0
 
 * Updated .yaml translation
