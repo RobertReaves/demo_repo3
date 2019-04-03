@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.5.1
+
+* Added keys
+
 ### 1.5.0
 
 * Added fr-localization.yaml
