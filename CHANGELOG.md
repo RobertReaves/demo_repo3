@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.8.0
+
+* xx
+
 ### 1.7.0
 
 * ww
@@ -38,6 +42,6 @@
 * Added initial localization.txt and package.json
 * Initial commit
 
-xxbump
+xxbumpxx
 blah
 bump
