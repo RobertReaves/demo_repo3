@@ -42,6 +42,6 @@
 * Added initial localization.txt and package.json
 * Initial commit
 
-xxbumpxx
+xxxxbumpxx
 blah
 bump
